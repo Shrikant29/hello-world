@@ -1,3 +1,3 @@
 <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying war on tomcat vm </h2>
+<h2> Deploying war using jenkins on tomcat vm </h2>
 <h2> Glad to see you here </h2>
